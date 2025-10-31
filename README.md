@@ -5,7 +5,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/mbhargav53">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+Web+Developer;Cloud+and+Networking+Enthusiast;Always+learning+new+things!&center=true&size=22" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+Web+Developer;Cloud+and+Networking+Enthusiast;Cybersecurity+Enthusiast;Always+learning+new+things!&center=true&size=22" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 
 ### 🧑‍💻 About Me  
 🎓 B.Tech CSE Student at **KL Deemed to be University (2026)** with a **9.3/10 CGPA**.  
-💡 Passionate about building **web apps, cloud tools, and automation systems**.  
-📚 Learning **AWS, Networking, and Security** to grow as a modern tech engineer.  
+💡 Passionate about building **web apps, cloud tools, Cyber tools and automation systems**.  
+📚 Learning **AWS, Cybersecurity,Networking, and Security** to grow as a modern tech engineer.  
 📫 Reach me at: **2200039111cser@gmail.com**
 
 ---
@@ -24,6 +24,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,13 +45,14 @@
 KL Deemed to be University — *CGPA: 9.3/10*  
 
 🎓 **Diploma — Mechanical Engineering (2021–2023)**  
-SVCET, Chittoor — *Percentage: 75%*
+SVCET, Chittoor — *Percentage: 73%*
 
 ---
 
-### 💼 Internships & Certifications
-- **Juniper Networks – AICTE Virtual Internship** *(Networking & Cloud, 2025)*  
-- **Certifications:** PMKVY (Python), RPA Essentials, JNCIA-Junos  
+### 💼 Internships
+- **Juniper Networks – AICTE Virtual Internship** *(Networking & Cloud, 2025)*
+- Gained hands-on experience in routing, switching, and cloud integration, and explored automation with Python and Junos.
+
 
 ---
 
@@ -77,27 +79,24 @@ SVCET, Chittoor — *Percentage: 75%*
   <a href="https://www.codechef.com/users/klu2200039111" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
+  <a href="https://tryhackme.com/p/MBhargav" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbhargav53&show_icons=true&theme=tokyonight" alt="Bhargav's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbhargav53&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
-
-### 🏆 Achievements
-- 🥇 AICTE Virtual Internship – Juniper Networks (Networking & Cloud)  
+###🏅 **Certifications**
+- 🏅 Juniper Network Junos
 - 🥈 PMKVY Certification – Python Programming  
 - 🥉 Automation Anywhere – RPA Essentials  
 
 ---
 
 ### 💬 Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “The function of good software is to make the complex appear simple.” 
 
 ---
 
