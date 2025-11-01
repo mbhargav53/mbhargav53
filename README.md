@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mallela Bhargav</h1>
-<h3 align="center">🚀 Aspiring Computer Science Engineer | Full-stack Developer | Cloud & Networking Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Computer Science Engineer | Full-stack Developer | Cybersecurity| Cloud & Networking Enthusiast</h3>
 
 <!-- Typing animation -->
 <p align="center">
