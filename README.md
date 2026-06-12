@@ -89,6 +89,7 @@ SVCET, Chittoor — *Percentage: 73%*
 
 
 ###🏅 **Certifications**
+- 🏅 Wipro - talentnext (Java Full Stack)
 - 🏅 Juniper Network Junos
 - 🥈 PMKVY Certification – Python Programming  
 - 🥉 Automation Anywhere – RPA Essentials  
